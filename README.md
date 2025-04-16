@@ -31,9 +31,8 @@
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](--) -->
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasReis&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasReis&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+![EliasReis13 GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasReis13&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasReis13&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
