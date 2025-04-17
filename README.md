@@ -11,7 +11,7 @@
   - 🌱 I’m currently learning backend development and exploring AI & robotics—fascinated by how technology can shape the future!
 
   - 🔭 I am Seeking my first job opportunity in tech, with a dream to work in backend development and contribute to innovative projects.
-  - 
+
   - 💡 Always curious, always coding.
 </p>
 
