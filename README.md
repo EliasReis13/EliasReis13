@@ -6,11 +6,13 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Elias! A passionate tech enthusiast and student from Brazil, with a keen interest in software development and technology.
+  Hi 👋, I'm Elias!  A passionate tech enthusiast and Information Systems student at UNEB (University of the State of Bahia, Brazil).
 
-  - 🌱 I’m currently studying Information Systems at UNEB (University of the State of Bahia).
+  - 🌱 I’m currently learning backend development and exploring AI & robotics—fascinated by how technology can shape the future!
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with backend development.
+  - 🔭 I am Seeking my first job opportunity in tech, with a dream to work in backend development and contribute to innovative projects.
+  - 
+  - 💡 Always curious, always coding.
 </p>
 
 <!-- Dropdown -->
