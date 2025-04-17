@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Elias!  A passionate tech enthusiast and Information Systems student at UNEB (University of the State of Bahia, Brazil).
+  Hi 👋, I'm Elias Reis! A passionate tech enthusiast and Information Systems student at UNEB (University of the State of Bahia, Brazil).
 
   - 🌱 I’m currently learning backend development and exploring AI & robotics—fascinated by how technology can shape the future!
 
