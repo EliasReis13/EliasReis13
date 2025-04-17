@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Filipe! A passionate tech enthusiast and student from Brazil, with a keen interest in software development and technology.
+  Hi 👋, I'm Elias! A passionate tech enthusiast and student from Brazil, with a keen interest in software development and technology.
 
   - 🌱 I’m currently studying Information Systems at UNEB (University of the State of Bahia).
 
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 22 years old, currently living in Brazil. I am proficient in English, with experience in reading technical documentation and communicating with international teams. I have experience with C, Python, Java, NLP (Natural Language Processing), Artificial Intelligence (and ROS2 (Robot Operating System).
+  - 💬 I am 23 years old, currently living in Brazil. I am proficient in English, with experience in reading technical documentation and communicating with international teams. I have experience with C, Python, Java, NLP (Natural Language Processing), Artificial Intelligence (and ROS2 (Robot Operating System).
     
   - 📚 I am also a member of the Center for Research in Computer Architecture, Intelligent Systems, and Robotics (ACSO) at UNEB (University of the State of Bahia), where I conduct research on the application of artificial intelligence (AI) in robotics as part of the RoboCup@Home league through a scientific initiation program.
     
